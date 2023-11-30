@@ -38,3 +38,4 @@
    - The project combines data analysis and visualization to understand climate change trends.
    - Linear regression models help identify patterns and deviations in temperature data.
    - Insights from the analysis contribute to ongoing climate change discussions and actions.
+   - More details of this project in ipynb file https://github.com/ArfaKhalid/Climate-Change-Analysis-Time-Series-Forecasting-in-ML/blob/main/Climate_change_anlaysis.ipynb.
